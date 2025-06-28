@@ -1,0 +1,8 @@
+[17-Mar-2025 14:52:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/mrinter/sdc.com.bd/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mrinter/sdc.com.bd/app/Http/Middleware/EncryptCookies.php on line 7
+[17-Mar-2025 14:52:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/mrinter/sdc.com.bd/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mrinter/sdc.com.bd/app/Http/Middleware/EncryptCookies.php on line 7

@@ -1,0 +1,4 @@
+[19-May-2024 05:11:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mrinter/sdc.com.bd/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mrinter/sdc.com.bd/config/database.php on line 18
